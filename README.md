@@ -1,4 +1,4 @@
-# mbc
+
 
 
 $ pkg update && pkg upgrade
