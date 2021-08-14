@@ -5,6 +5,8 @@ $ pkg update && pkg upgrade
 
 $ pkg install git
 
+$ pip2 install futures
+
 $ pkg install python2
 
 $ pip2 install requests
