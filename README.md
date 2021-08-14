@@ -12,4 +12,4 @@ $ git clone https://github.com/AkinXD/dmbf
 
 $ cd dmbf
 
-$ python2 Ndru.py
+$ python2 Dru.pyc
